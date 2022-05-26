@@ -5,8 +5,7 @@ Used Get Method
 
 
 
-## Working![movie_poster](https://user-images.githubusercontent.com/71246954/170436411-9e2aeaa1-d070-46ae-959e-58da628a84e3.jpeg)
-![movie_poster (2)](https://user-images.githubusercontent.com/71246954/170436415-79a79514-b214-4068-aa54-e61b5430590c.jpeg)
+## Working
 ![movie_poster (3)](https://user-images.githubusercontent.com/71246954/170436418-9b067a10-ce14-4e72-b7a5-0044cb8c882a.jpeg)
 ![movie_poster (4)](https://user-images.githubusercontent.com/71246954/170436420-4207184a-c12a-4d1d-84c2-ba06f884346d.jpeg)
 ![movie_poster (5)](https://user-images.githubusercontent.com/71246954/170436422-cdceaf5a-2325-4062-8c45-f31505fbe68a.jpeg)
