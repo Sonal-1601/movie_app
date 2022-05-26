@@ -1,7 +1,7 @@
 # movie_preview
 
 A flutter project to show movie details with flutter API integration
-Used Get 
+Used Get Method
 
 
 
